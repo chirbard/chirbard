@@ -5,6 +5,8 @@
 
 [![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg.svg)](https://huggingface.co/chirbard)
 
+![](https://komarev.com/ghpvc/?username=chirbard&color=yellow)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=chirbard&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirbard&layout=compact&theme=tokyonight)
